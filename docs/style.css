@@ -1,0 +1,77 @@
+body {
+  font-family: -apple-system, "Segoe UI", "Microsoft JhengHei", sans-serif;
+  margin: 0;
+  padding: 1.5rem;
+  color: #222;
+}
+
+h1 {
+  font-size: 1.4rem;
+}
+
+nav a {
+  margin-right: 1rem;
+}
+
+#search-form {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+
+#search-keyword {
+  flex: 1;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+#regex-label {
+  white-space: nowrap;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+#status {
+  margin: 0.5rem 0;
+  color: #555;
+}
+
+#truncate-notice {
+  color: #b00;
+  font-weight: bold;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 0.5rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  background: #f4f4f4;
+}
+
+tr:hover {
+  background: #fafafa;
+}
+
+.empty {
+  color: #888;
+  padding: 1rem 0;
+}
+
+.back-link {
+  display: inline-block;
+  margin-bottom: 1rem;
+}
