@@ -12318,5 +12318,115 @@
     "period_end": null,
     "publish_date": "2026-07-07 15:50",
     "analyzed_at": "2026-07-14T16:05:56.678841+00:00"
+  },
+  {
+    "notice_id": 219035,
+    "notice_title": "2026/08/18(二)維護開機公告",
+    "source_url": "https://ro.gnjoy.com.tw/Notice/Notice_View?id=219035",
+    "channel_type": "無",
+    "channel_name": null,
+    "period_start": null,
+    "period_end": null,
+    "publish_date": "2026-08-18 15:40",
+    "analyzed_at": "2026-08-22T08:11:16.055627+00:00"
+  },
+  {
+    "notice_id": 219022,
+    "notice_title": "2026/08/18(二)維護關機公告",
+    "source_url": "https://ro.gnjoy.com.tw/Notice/Notice_View?id=219022",
+    "channel_type": "無",
+    "channel_name": null,
+    "period_start": null,
+    "period_end": null,
+    "publish_date": "2026-08-17 16:30",
+    "analyzed_at": "2026-08-22T08:11:37.801408+00:00"
+  },
+  {
+    "notice_id": 219002,
+    "notice_title": "2026/08/11(二)維護開機公告(15:30更新)",
+    "source_url": "https://ro.gnjoy.com.tw/Notice/Notice_View?id=219002",
+    "channel_type": "無",
+    "channel_name": null,
+    "period_start": null,
+    "period_end": null,
+    "publish_date": "2026-08-11 14:00",
+    "analyzed_at": "2026-08-22T08:11:59.524324+00:00"
+  },
+  {
+    "notice_id": 218942,
+    "notice_title": "2026/08/11(二)維護關機公告",
+    "source_url": "https://ro.gnjoy.com.tw/Notice/Notice_View?id=218942",
+    "channel_type": "無",
+    "channel_name": null,
+    "period_start": null,
+    "period_end": null,
+    "publish_date": "2026-08-10 16:30",
+    "analyzed_at": "2026-08-22T08:12:19.778893+00:00"
+  },
+  {
+    "notice_id": 218907,
+    "notice_title": "2026/08/04(二)維護開機公告",
+    "source_url": "https://ro.gnjoy.com.tw/Notice/Notice_View?id=218907",
+    "channel_type": "轉蛋",
+    "channel_name": "2026 8月轉蛋Ⅰ",
+    "period_start": "2026-08-04 00:00",
+    "period_end": "2026-08-25 23:59",
+    "publish_date": "2026-08-04 14:20",
+    "analyzed_at": "2026-08-22T08:12:26.619827+00:00"
+  },
+  {
+    "notice_id": 218902,
+    "notice_title": "2026/08/04(二)維護關機公告",
+    "source_url": "https://ro.gnjoy.com.tw/Notice/Notice_View?id=218902",
+    "channel_type": "無",
+    "channel_name": null,
+    "period_start": null,
+    "period_end": null,
+    "publish_date": "2026-08-03 16:30",
+    "analyzed_at": "2026-08-22T08:12:48.190159+00:00"
+  },
+  {
+    "notice_id": 218866,
+    "notice_title": "2026/07/28(二)維護開機公告",
+    "source_url": "https://ro.gnjoy.com.tw/Notice/Notice_View?id=218866",
+    "channel_type": "無",
+    "channel_name": null,
+    "period_start": null,
+    "period_end": null,
+    "publish_date": "2026-07-28 14:00",
+    "analyzed_at": "2026-08-22T08:13:09.805286+00:00"
+  },
+  {
+    "notice_id": 218859,
+    "notice_title": "2026/07/28(二)維護關機公告",
+    "source_url": "https://ro.gnjoy.com.tw/Notice/Notice_View?id=218859",
+    "channel_type": "無",
+    "channel_name": null,
+    "period_start": null,
+    "period_end": null,
+    "publish_date": "2026-07-27 16:30",
+    "analyzed_at": "2026-08-22T08:13:29.948483+00:00"
+  },
+  {
+    "notice_id": 218818,
+    "notice_title": "2026/07/21(二)維護開機公告(16:05更新)",
+    "source_url": "https://ro.gnjoy.com.tw/Notice/Notice_View?id=218818",
+    "channel_type": "無",
+    "channel_name": null,
+    "period_start": null,
+    "period_end": null,
+    "publish_date": "2026-07-21 14:40",
+    "analyzed_at": "2026-08-22T08:13:54.005253+00:00"
+  },
+  {
+    "notice_id": 218811,
+    "notice_title": "2026/07/21(二)維護關機公告",
+    "source_url": "https://ro.gnjoy.com.tw/Notice/Notice_View?id=218811",
+    "channel_type": "無",
+    "channel_name": null,
+    "period_start": null,
+    "period_end": null,
+    "publish_date": "2026-07-20 16:30",
+    "analyzed_at": "2026-08-22T08:14:15.713005+00:00"
   }
 ]
