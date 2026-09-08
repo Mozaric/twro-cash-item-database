@@ -71629,5 +71629,628 @@
     "probability": null,
     "acquire_condition": "『單一伺服器』累積消費達12000獎勵 (可從組合A至H合計8組中，自行選擇領取一組)，多選一－組合D相關道具",
     "scraped_at": "2026-08-30T20:09:59.202783+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "加速術 10等級卷軸[轉蛋專用]",
+    "probability": "100.000%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "轉蛋票根券",
+    "probability": "100.000%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "擴音器[轉蛋專用]",
+    "probability": "10.850%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "免掉啪證書[轉蛋專用]",
+    "probability": "10.850%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "隨地倉庫使用券[轉蛋專用]",
+    "probability": "10.850%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "高級戰鬥藥10個箱子",
+    "probability": "10.850%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "原地復活之證[轉蛋專用]",
+    "probability": "10.850%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "戰神蒂爾之祝福[轉蛋專用]",
+    "probability": "9.050%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "速度增強藥劑",
+    "probability": "9.050%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "力量防護卷軸",
+    "probability": "9.050%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "毒藥瓶10入箱子[轉蛋專用]",
+    "probability": "6.575%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "影子附魔能源石",
+    "probability": "2.000%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "特性增強藥劑",
+    "probability": "2.000%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "真力量防護卷軸",
+    "probability": "2.000%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "忽克連影子精煉鎚",
+    "probability": "1.050%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "搖滾短假髮禮盒",
+    "probability": "1.070%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "斯基亞假髮禮盒",
+    "probability": "1.070%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "影子四轉&上位職業屬性箱",
+    "probability": "0.225%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "影子四轉&上位職業屬性咒語",
+    "probability": "0.225%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "時光超越能量",
+    "probability": "0.200%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "(服飾)藍色的荊棘骷髏髮圈",
+    "probability": "0.175%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "(服飾)藍玫瑰陽傘",
+    "probability": "0.175%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "忽克連影子精煉鎚",
+    "probability": "0.175%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "強力精華球",
+    "probability": "0.175%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "影子附魔能源石3個箱子",
+    "probability": "0.175%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "影子裝備轉變兌換券",
+    "probability": "0.150%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "強烈靈魂精髓",
+    "probability": "0.125%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "清澈石",
+    "probability": "0.110%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "忽克連影子精煉鎚",
+    "probability": "0.075%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "服飾附魔移植券",
+    "probability": "0.075%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "(服飾)2026ROS閃耀光圈",
+    "probability": "0.075%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "影子深淵之焰耳環",
+    "probability": "0.075%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "影子深淵之焰墜子",
+    "probability": "0.075%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "影子萬丈深淵墳場鎧甲",
+    "probability": "0.075%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "影子萬丈深淵墳場戰靴",
+    "probability": "0.075%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "附魔票",
+    "probability": "0.045%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "啟海伊洛的毀滅科技",
+    "probability": "0.040%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "[精煉+9]影子十字影武鎧甲",
+    "probability": "0.035%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "[精煉+9]影子十字影武戰靴",
+    "probability": "0.035%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "[精煉+9]影子十字影武耳環",
+    "probability": "0.035%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "[精煉+9]影子十字影武墜子",
+    "probability": "0.035%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "2026ROS閃耀光圈",
+    "probability": "0.035%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "時間裂縫暗殺秘刃箱",
+    "probability": "0.030%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "時間裂縫深淵短劍",
+    "probability": "0.030%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "[精煉+9]影子大師手套",
+    "probability": "0.025%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "[精煉+9]影子大師神盾",
+    "probability": "0.025%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "影子清澈神盾",
+    "probability": "0.010%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "伊美樂心臟能量石",
+    "probability": "0.010%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "王水瓶",
+    "probability": "0.005%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219191,
+    "item_name": "莎拉卡片",
+    "probability": "0.005%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:49:39.828034+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "世界地圖移動券",
+    "probability": "10.850%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "擴聲器[活動專用]",
+    "probability": "10.850%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "免掉啪證書[活動專用]",
+    "probability": "10.850%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "隨地倉庫使用券[活動專用]",
+    "probability": "10.850%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "原地復活之證[活動專用]",
+    "probability": "10.850%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "小型生命水[活動專用]",
+    "probability": "9.050%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "中型生命水[活動專用]",
+    "probability": "9.050%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "速度增強藥劑",
+    "probability": "9.050%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "力量防護卷軸",
+    "probability": "7.000%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "魔幻香水[活動專用]",
+    "probability": "2.000%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "極限藥水[活動專用]",
+    "probability": "2.000%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "蒟蒻果凍[活動專用]",
+    "probability": "2.000%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "天地樹芽30入箱子[活動專用]",
+    "probability": "1.000%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "強化料理濃縮液[活動專用]",
+    "probability": "1.020%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "無限蒼蠅翅膀箱子_7日[活動專用]",
+    "probability": "1.020%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "影子四轉&上位職業屬性箱",
+    "probability": "0.225%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "影子四轉&上位職業屬性咒語",
+    "probability": "0.225%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "海豹寶寶微型電扇",
+    "probability": "0.200%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "海獺微型電扇",
+    "probability": "0.200%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "洛奇的籌碼硬幣選擇箱",
+    "probability": "0.175%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "洛奇的忠告選擇箱",
+    "probability": "0.175%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "王牌Ace選擇箱",
+    "probability": "0.175%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "影子附魔能源石",
+    "probability": "0.175%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "忽克連影子精煉鎚",
+    "probability": "0.175%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "影子裝備轉變兌換券",
+    "probability": "0.125%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "服飾附魔移植券",
+    "probability": "0.125%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "影子四轉&上位職業裝備選擇箱",
+    "probability": "0.125%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "強力精華球",
+    "probability": "0.125%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "貪婪石(頭上)",
+    "probability": "0.075%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "貪婪石(頭中)",
+    "probability": "0.075%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "影子大師手套",
+    "probability": "0.035%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "影子大師神盾",
+    "probability": "0.035%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "附魔票",
+    "probability": "0.025%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "影子天衣無縫風暴選擇箱",
+    "probability": "0.025%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "影子天衣無縫貫穿選擇箱",
+    "probability": "0.025%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "[A階級]+12黯淡武器選擇箱",
+    "probability": "0.025%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "黃金卡冊",
+    "probability": "0.005%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "王水瓶",
+    "probability": "0.005%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
+  },
+  {
+    "notice_id": 219102,
+    "item_name": "伊美樂心臟能量碎片",
+    "probability": "0.005%",
+    "acquire_condition": "",
+    "scraped_at": "2026-09-08T19:50:51.029467+00:00"
   }
 ]
