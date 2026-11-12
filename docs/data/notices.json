@@ -12714,5 +12714,27 @@
     "period_end": null,
     "publish_date": "2026-09-14 16:30",
     "analyzed_at": "2026-11-03T13:25:47.245178+00:00"
+  },
+  {
+    "notice_id": 219580,
+    "notice_title": "2026/11/10(二)維護開機公告",
+    "source_url": "https://ro.gnjoy.com.tw/Notice/Notice_View?id=219580",
+    "channel_type": "無",
+    "channel_name": null,
+    "period_start": null,
+    "period_end": null,
+    "publish_date": "2026-11-10 14:50",
+    "analyzed_at": "2026-11-12T14:33:36.506394+00:00"
+  },
+  {
+    "notice_id": 219574,
+    "notice_title": "2026/11/10(二)維護關機公告",
+    "source_url": "https://ro.gnjoy.com.tw/Notice/Notice_View?id=219574",
+    "channel_type": "無",
+    "channel_name": null,
+    "period_start": null,
+    "period_end": null,
+    "publish_date": "2026-11-09 16:30",
+    "analyzed_at": "2026-11-12T14:33:57.958410+00:00"
   }
 ]
