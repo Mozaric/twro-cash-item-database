@@ -54,6 +54,17 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
+      - name: Diagnose Cloudflare block
+        continue-on-error: true
+        run: |
+          echo "Runner public IP: $(curl -s https://api.ipify.org)"
+          curl -s -D - -o body.html -X POST https://ro.gnjoy.com.tw/Notice/forAjax_NoticeNews \
+            -H "Content-Type: application/json; charset=utf-8" \
+            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" \
+            -d '{"news_catalog_id":"0","search_word":"test","row_start":"1"}'
+          echo "----- body summary -----"
+          grep -oiE "error code:? *[0-9]+|<title>[^<]*</title>|cf-error-code[^<]*" body.html || head -c 800 body.html
+          rm -f body.html
       - name: Run scraper discover
         env:
           NOTICE_ID: ${{ inputs.notice_id }}
